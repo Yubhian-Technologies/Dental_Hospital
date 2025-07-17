@@ -1,3 +1,4 @@
+
 import React, { useState, useEffect } from 'react';
 import { ChevronLeft, ChevronRight, Shield, Clock, Award, Users } from 'lucide-react';
 
