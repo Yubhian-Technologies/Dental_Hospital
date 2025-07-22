@@ -29,7 +29,6 @@ A modern, responsive dental practice website built with React, TypeScript, and T
 
 ## 🚀 Live Demo
 
-- **Main Site (Auto-detect)**: https://guileless-sundae-98d7de.netlify.app
 - **Desktop Version**: https://guileless-sundae-98d7de.netlify.app/desktop.html
 - **Mobile Version**: https://guileless-sundae-98d7de.netlify.app/mobile.html
 
